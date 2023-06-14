@@ -2,6 +2,7 @@
 issueにsurverした論文をまとめる．
 論文リスト
 https://docs.google.com/spreadsheets/d/16uWelEp1GYcz4HlWvdTScuHQPrQBx20Xo5UfioSRlBA/edit?usp=sharing
+
 読んだらこっちでまとめる流れ
 テンプレート
 ### 論文リンク
